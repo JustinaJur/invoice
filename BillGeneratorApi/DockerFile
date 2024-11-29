@@ -1,0 +1,22 @@
+# Use the official .NET SDK image as the base image for building
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /app
+
+# Copy the csproj file and restore any dependencies (via dotnet restore)
+COPY *.csproj ./
+RUN dotnet restore
+
+# Copy the entire application and publish it to /app/publish
+COPY . ./
+RUN dotnet publish -c Release -o /app/publish
+
+# Define the base image to run the app (runtime-only)
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+WORKDIR /app
+EXPOSE 80
+
+# Copy the published files from the build image
+COPY --from=build /app/publish .
+
+# Define the entry point for the application (when the container starts)
+ENTRYPOINT ["dotnet", "BillGeneratorApi.dll"]

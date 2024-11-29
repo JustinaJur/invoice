@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Jk9zXST68yVWwVENcnoUZ4+iPku1pObxatk6c4mId3I=",
+  "Source": "BillGeneratorApi",
+  "BasePath": "_content/BillGeneratorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
