@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c3lurtpMLTU=",
+  "dgSpecHash": "0Ak15rGacYM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jusht\\projektai\\billGenerator\\BillGeneratorApi\\BillGeneratorApi.csproj",
+  "projectFilePath": "C:\\Users\\jusht\\projektai\\invoice\\BillGeneratorApi\\BillGeneratorApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jusht\\.nuget\\packages\\epplus\\7.5.1\\epplus.7.5.1.nupkg.sha512",
     "C:\\Users\\jusht\\.nuget\\packages\\epplus.interfaces\\7.5.0\\epplus.interfaces.7.5.0.nupkg.sha512",

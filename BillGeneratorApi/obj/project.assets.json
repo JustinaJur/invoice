@@ -1939,11 +1939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jusht\\projektai\\billGenerator\\BillGeneratorApi\\BillGeneratorApi.csproj",
+      "projectUniqueName": "C:\\Users\\jusht\\projektai\\invoice\\BillGeneratorApi\\BillGeneratorApi.csproj",
       "projectName": "BillGeneratorApi",
-      "projectPath": "C:\\Users\\jusht\\projektai\\billGenerator\\BillGeneratorApi\\BillGeneratorApi.csproj",
+      "projectPath": "C:\\Users\\jusht\\projektai\\invoice\\BillGeneratorApi\\BillGeneratorApi.csproj",
       "packagesPath": "C:\\Users\\jusht\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jusht\\projektai\\billGenerator\\BillGeneratorApi\\obj\\",
+      "outputPath": "C:\\Users\\jusht\\projektai\\invoice\\BillGeneratorApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jusht\\AppData\\Roaming\\NuGet\\NuGet.Config"
