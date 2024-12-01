@@ -20,4 +20,4 @@ COPY --from=build /publish .
 EXPOSE 80
 
 # Set the start command
-ENTRYPOINT ["dotnet", "BillGeneratorApi.dll"]
+ENTRYPOINT ["dotnet", "invoice.dll"]
