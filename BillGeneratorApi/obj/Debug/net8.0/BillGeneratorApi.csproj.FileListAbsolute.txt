@@ -151,3 +151,8 @@ C:\Users\jusht\projektai\invoice\BillGeneratorApi\obj\Debug\net8.0\refint\BillGe
 C:\Users\jusht\projektai\invoice\BillGeneratorApi\obj\Debug\net8.0\BillGeneratorApi.pdb
 C:\Users\jusht\projektai\invoice\BillGeneratorApi\obj\Debug\net8.0\BillGeneratorApi.genruntimeconfig.cache
 C:\Users\jusht\projektai\invoice\BillGeneratorApi\obj\Debug\net8.0\ref\BillGeneratorApi.dll
+C:\Users\jusht\projektai\invoice\BillGeneratorApi\bin\Debug\net8.0\publish\web.config
+C:\Users\jusht\projektai\invoice\BillGeneratorApi\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\jusht\projektai\invoice\BillGeneratorApi\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\jusht\projektai\invoice\BillGeneratorApi\bin\Debug\net8.0\publish\BillGeneratorApi.deps.json
+C:\Users\jusht\projektai\invoice\BillGeneratorApi\bin\Debug\net8.0\publish\BillGeneratorApi.runtimeconfig.json
